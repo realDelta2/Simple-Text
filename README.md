@@ -7,4 +7,4 @@ Features:
 - Creating a file
 - Opening a file
 
-That's It for now.
+That's It for now!
